@@ -44,7 +44,7 @@ public class Bicis {
                     descuento = subtotal * 0.20;
                 }
                     double total = subtotal - descuento;
-                    System.out.println("Tipo de bicicleta" + nombre);
+                    System.out.println("Tipo de bicicleta " + nombre);
                     System.out.println("Subtotal: $" + subtotal);
                     System.out.println("Descuento: $" + descuento);
                     System.out.println("Total a pagar: $" + total);
