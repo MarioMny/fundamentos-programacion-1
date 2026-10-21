@@ -16,6 +16,7 @@ public class App{
         }else {
              while (num1 < num2) {
             num1++;
+            
             System.out.println("Estas en el piso: "+num1);
             
         }
