@@ -16,7 +16,7 @@ public class App {
              int puntos = tc.nextInt();
 
             contador+=puntos;
-            promedioPuntos= (double)puntos / i;
+            promedioPuntos= (double)contador / i;
            if (puntos >= 10){
             partidasmayor1000++;
 
